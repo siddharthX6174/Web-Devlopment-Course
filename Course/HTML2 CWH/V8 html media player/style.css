@@ -1,0 +1,17 @@
+table{
+    width: 70%;
+    border-collapse:collapse;
+}
+th, td{
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px;
+    text-align: left;
+}
+th{
+    background-color: gray;
+    color:aliceblue;
+}
+body{
+    background-color: black;  /* sets the background to black */
+    color: white;              
+}
